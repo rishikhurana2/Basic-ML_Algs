@@ -41,27 +41,6 @@ classifiers, like training them, generating learning curves, etc.
 
 ``data/*``: all of the datasets we'll use.
 
-### What to Submit
-
-You will handin all of the python files listed above under "Files
-you'll edit" as well as a partners.txt file that lists the **names** and
-**last four digits of the UID** of all members in your team.  Finally,
-you'll hand in a **writeup.pdf** file that answers all the written
-questions in this assignment (denoted by **WU#** in this file).
-
-
-#### Autograding
-
-Your code will be autograded for technical correctness. Please **do
-not** change the names of any provided functions or classes within the
-code, or you will wreak havoc on the autograder. However, the
-correctness of your implementation -- not the autograder's output --
-will be the final judge of your score.  If necessary, we will review
-and grade assignments individually to ensure that you receive due
-credit for your work.
-
-
-
 ## Warming up to Classifiers (10%)
 
 Let's begin our foray into classification by looking at some very
